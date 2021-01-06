@@ -15,6 +15,8 @@ No. | Video | Title
 4|<a href="https://youtu.be/zK4Ch6e1zq8"><img src="http://img.youtube.com/vi/zK4Ch6e1zq8/0.jpg" alt="How to Deploy Data Science Web App to Heroku - Streamlit Tutorial #4" title="How to Deploy Data Science Web App to Heroku - Streamlit Tutorial #4" width="200" /></a> | [How to Deploy Data Science Web App to Heroku - Streamlit Tutorial #4](https://youtu.be/zK4Ch6e1zq8)
 5|<a href="https://youtu.be/xiBXspqs0dk"><img src="http://img.youtube.com/vi/xiBXspqs0dk/0.jpg" alt="How to Build a Basketball Player Data Explorer Web App in Python - Streamlit Tutorial #5" title="How to Build a Basketball Player Data Explorer Web App in Python - Streamlit Tutorial #5" width="200" /></a> | [How to Build a Basketball Player Data Explorer Web App in Python - Streamlit Tutorial #5](https://youtu.be/zK4Ch6e1zq8)
 6|<a href="https://youtu.be/z5HfbXORZsg"><img src="http://img.youtube.com/vi/z5HfbXORZsg/0.jpg" alt="How to Build a Boston Housing Price Prediction Web App in Python - Streamlit Tutorial #6" title="How to Build a Boston Housing Price Prediction Web App in Python - Streamlit Tutorial #6" width="200" /></a> | [How to Build a Boston Housing Price Prediction Web App in Python - Streamlit Tutorial #6](https://youtu.be/z5HfbXORZsg)
+7|<a href="https://youtu.be/iZUH1qlgnys"><img src="http://img.youtube.com/vi/iZUH1qlgnys/0.jpg" alt="Building a Bioinformatics Web App in Python (Streamlit Tutorial Part 7)" title="Building a Bioinformatics Web App in Python (Streamlit Tutorial Part 7)" width="200" /></a> | [Building a Bioinformatics Web App in Python (Streamlit Tutorial Part 7)](https://youtu.be/iZUH1qlgnys)
+
 
 
 ## Data Science Toolbox
