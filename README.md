@@ -2,6 +2,10 @@
 
 Playlists on the [Data Professor](http://youtube.com/dataprofessor) YouTube channel
 
+[Streamlit (Web App in Python)](https://github.com/dataprofessor/youtube/blob/main/README.md#streamlit-web-app-in-python)
+[Data Science Toolbox](https://github.com/dataprofessor/youtube/blob/main/README.md#data-science-toolbox)
+
+
 ## Streamlit (Web App in Python)
 
 No. | Video | Title
