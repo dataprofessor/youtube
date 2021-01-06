@@ -19,7 +19,7 @@ No. | Video | Title
 8|<a href="https://youtu.be/DD9tgg8ivbU"><img src="http://img.youtube.com/vi/DD9tgg8ivbU/0.jpg" alt="How to Build a Simple Bioinformatics Web App in Python - Streamlit Tutorial #8" title="How to Build a Simple Bioinformatics Web App in Python - Streamlit Tutorial #8" width="200" /></a> | [How to Build a Simple Bioinformatics Web App in Python - Streamlit Tutorial #8](https://youtu.be/DD9tgg8ivbU)
 9|<a href="https://youtu.be/zYSDlbr-8V8"><img src="http://img.youtube.com/vi/zYSDlbr-8V8/0.jpg" alt="How to Build a Football Data Web App in Python - Streamlit Tutorial #9" title="How to Build a Football Data Web App in Python - Streamlit Tutorial #9" width="200" /></a> | [How to Build a Football Data Web App in Python - Streamlit Tutorial #9](https://youtu.be/zYSDlbr-8V8)
 10|<a href="https://youtu.be/JUSFaWkAASI"><img src="http://img.youtube.com/vi/JUSFaWkAASI/0.jpg" alt="How to Build a Stocks Price Web App in Python - Streamlit Tutorial #10" title="How to Build a Stocks Price Web App in Python - Streamlit Tutorial #10" width="200" /></a> | [How to Build a Stocks Price Web App in Python - Streamlit Tutorial #10](https://youtu.be/JUSFaWkAASI)
-
+11|<a href="https://youtu.be/kXvmqg8hc70"><img src="http://img.youtube.com/vi/kXvmqg8hc70/0.jpg" alt="How to Deploy Data Science Web App to Streamlit Sharing - Streamlit Tutorial #11" title="How to Deploy Data Science Web App to Streamlit Sharing - Streamlit Tutorial #11" width="200" /></a> | [How to Deploy Data Science Web App to Streamlit Sharing - Streamlit Tutorial #11](https://youtu.be/kXvmqg8hc70)
 
 
 ## Data Science Toolbox
