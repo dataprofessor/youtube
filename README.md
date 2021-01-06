@@ -7,6 +7,8 @@ Playlists on the [Data Professor](http://youtube.com/dataprofessor) YouTube chan
 
 ## Streamlit (Web App in Python)
 
+Go to the [Streamlit (Web App in Python)](https://www.youtube.com/watch?v=ZZ4B0QUHuNc&list=PLtqF5YXg7GLmCvTswG32NqQypOuYkPRUE) playlist on YouTube.
+
 No. | Video | Title
 ---|---|---
 1|<a href="https://youtu.be/ZZ4B0QUHuNc"><img src="http://img.youtube.com/vi/ZZ4B0QUHuNc/0.jpg" alt="How to Build Your First Data Science Web App in Python - Streamlit Tutorial #1" title="How to Build Your First Data Science Web App in Python - Streamlit Tutorial #1" width="200" /></a> | [How to Build Your First Data Science Web App in Python - Streamlit Tutorial #1](https://youtu.be/ZZ4B0QUHuNc)
@@ -26,6 +28,8 @@ No. | Video | Title
 
 
 ## Data Science Toolbox
+
+Go to the [Data Science Toolbox](https://www.youtube.com/watch?v=vCBeGLpvoYM&list=PLtqF5YXg7GLkskjS9D2PSIwKV6HUuWkXo) playlist on YouTube.
 
 Video | Title
 ---|---
