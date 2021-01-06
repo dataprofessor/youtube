@@ -9,7 +9,9 @@ Video | Title
 
 # Data Science Toolbox
 
-<a href="https://youtu.be/URjJVEeZxxU"><img src="http://img.youtube.com/vi/URjJVEeZxxU/0.jpg" alt="How to Speed Up Data Cleaning and Exploratory Data Analysis in Python with klib" title="How to Speed Up Data Cleaning and Exploratory Data Analysis in Python with klib" width="400" /></a>
+Video | Title
+---|---
+<a href="https://youtu.be/URjJVEeZxxU"><img src="http://img.youtube.com/vi/URjJVEeZxxU/0.jpg" alt="How to Speed Up Data Cleaning and Exploratory Data Analysis in Python with klib" title="How to Speed Up Data Cleaning and Exploratory Data Analysis in Python with klib" width="400" /></a> | [How to Speed Up Data Cleaning and Exploratory Data Analysis in Python with klib](https://youtu.be/URjJVEeZxxU)
 
 
 
