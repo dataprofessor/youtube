@@ -2,6 +2,7 @@
 
 Playlists on the [Data Professor](http://youtube.com/dataprofessor) YouTube channel
 * [Streamlit (Web App in Python)](https://github.com/dataprofessor/youtube/blob/main/README.md#streamlit-web-app-in-python)
+* [Data Science 101](https://github.com/dataprofessor/youtube/blob/main/README.md#data-science-101)
 * [Data Science Toolbox](https://github.com/dataprofessor/youtube/blob/main/README.md#data-science-toolbox)
 
 
@@ -25,6 +26,14 @@ No. | Video | Title
 12|<a href="https://youtu.be/OYsz4Ww0h3o"><img src="http://img.youtube.com/vi/OYsz4Ww0h3o/0.jpg" alt="How to Build a Cryptocurrency Price Web App - Streamlit Tutorial #12" title="How to Build a Cryptocurrency Price Web App - Streamlit Tutorial #12" width="200" /></a> | [How to Build a Cryptocurrency Price Web App - Streamlit Tutorial #12](https://youtu.be/OYsz4Ww0h3o)
 13|<a href="https://youtu.be/eT3JMZagMnE"><img src="http://img.youtube.com/vi/eT3JMZagMnE/0.jpg" alt="How to Build a Machine Learning App (Streamlit + Scikit-learn in Python)" title="How to Build a Machine Learning App (Streamlit + Scikit-learn in Python)" width="200" /></a> | [How to Build a Machine Learning App (Streamlit + Scikit-learn in Python)](https://youtu.be/eT3JMZagMnE)
 14|<a href="https://youtu.be/HT2WHLgYpxY"><img src="http://img.youtube.com/vi/HT2WHLgYpxY/0.jpg" alt="How to Build a Machine Learning Hyperparameter Optimization App (Streamlit + Scikit-learn + Python)" title="How to Build a Machine Learning Hyperparameter Optimization App (Streamlit + Scikit-learn + Python)" width="200" /></a> | [How to Build a Machine Learning Hyperparameter Optimization App (Streamlit + Scikit-learn + Python)](https://youtu.be/HT2WHLgYpxY)
+
+
+## Data Science 101
+
+Go to the [Data Science 101](https://www.youtube.com/watch?v=7XdoaQYwTeA&list=PLtqF5YXg7GLn0WWB_wQx7wHrIvbs0EH2e) playlist on YouTube.
+
+<a href="https://youtu.be/7XdoaQYwTeA"><img src="http://img.youtube.com/vi/7XdoaQYwTeA/0.jpg" alt="Strategies for Learning Data Science in 2020" title="Strategies for Learning Data Science in 2020" width="200" /></a> | [Strategies for Learning Data Science in 2020](https://youtu.be/7XdoaQYwTeA)
+
 
 
 ## Data Science Toolbox
