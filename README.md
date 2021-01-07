@@ -42,8 +42,8 @@ No | Video | Title
 
 Go to the [Data Science Toolbox](https://www.youtube.com/watch?v=vCBeGLpvoYM&list=PLtqF5YXg7GLkskjS9D2PSIwKV6HUuWkXo) playlist on YouTube.
 
-No|Video | Title
----|---
+No | Video | Title
+---|---|---
 1|<a href="https://youtu.be/URjJVEeZxxU"><img src="http://img.youtube.com/vi/URjJVEeZxxU/0.jpg" alt="How to Speed Up Data Cleaning and Exploratory Data Analysis in Python with klib" title="How to Speed Up Data Cleaning and Exploratory Data Analysis in Python with klib" width="200" /></a> | [How to Speed Up Data Cleaning and Exploratory Data Analysis in Python with klib](https://youtu.be/URjJVEeZxxU)
 
 
