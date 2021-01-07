@@ -32,9 +32,9 @@ No. | Video | Title
 
 Go to the [Data Science 101](https://www.youtube.com/watch?v=7XdoaQYwTeA&list=PLtqF5YXg7GLn0WWB_wQx7wHrIvbs0EH2e) playlist on YouTube.
 
-Video | Title
----|---
-<a href="https://youtu.be/7XdoaQYwTeA"><img src="http://img.youtube.com/vi/7XdoaQYwTeA/0.jpg" alt="Strategies for Learning Data Science in 2020" title="Strategies for Learning Data Science in 2020" width="200" /></a> | [Strategies for Learning Data Science in 2020](https://youtu.be/7XdoaQYwTeA)
+No | Video | Title
+---|---|---
+1|<a href="https://youtu.be/7XdoaQYwTeA"><img src="http://img.youtube.com/vi/7XdoaQYwTeA/0.jpg" alt="Strategies for Learning Data Science in 2020" title="Strategies for Learning Data Science in 2020" width="200" /></a> | [Strategies for Learning Data Science in 2020](https://youtu.be/7XdoaQYwTeA)
 
 
 
@@ -42,9 +42,9 @@ Video | Title
 
 Go to the [Data Science Toolbox](https://www.youtube.com/watch?v=vCBeGLpvoYM&list=PLtqF5YXg7GLkskjS9D2PSIwKV6HUuWkXo) playlist on YouTube.
 
-Video | Title
+No|Video | Title
 ---|---
-<a href="https://youtu.be/URjJVEeZxxU"><img src="http://img.youtube.com/vi/URjJVEeZxxU/0.jpg" alt="How to Speed Up Data Cleaning and Exploratory Data Analysis in Python with klib" title="How to Speed Up Data Cleaning and Exploratory Data Analysis in Python with klib" width="200" /></a> | [How to Speed Up Data Cleaning and Exploratory Data Analysis in Python with klib](https://youtu.be/URjJVEeZxxU)
+1|<a href="https://youtu.be/URjJVEeZxxU"><img src="http://img.youtube.com/vi/URjJVEeZxxU/0.jpg" alt="How to Speed Up Data Cleaning and Exploratory Data Analysis in Python with klib" title="How to Speed Up Data Cleaning and Exploratory Data Analysis in Python with klib" width="200" /></a> | [How to Speed Up Data Cleaning and Exploratory Data Analysis in Python with klib](https://youtu.be/URjJVEeZxxU)
 
 
 
