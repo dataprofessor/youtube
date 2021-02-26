@@ -34,8 +34,9 @@ Go to the [Data Science 101](https://www.youtube.com/watch?v=7XdoaQYwTeA&list=PL
 
 No | Video | Title
 ---|---|---
-1|<a href="https://youtu.be/7XdoaQYwTeA"><img src="http://img.youtube.com/vi/7XdoaQYwTeA/0.jpg" alt="Strategies for Learning Data Science in 2020" title="Strategies for Learning Data Science in 2020" width="200" /></a> | [Strategies for Learning Data Science in 2020](https://youtu.be/7XdoaQYwTeA)
-2|<a href="https://youtu.be/fCXBaEnPzgo"><img src="http://img.youtube.com/vi/fCXBaEnPzgo/0.jpg" alt="Building your Data Science Portfolio with GitHub" title="Building your Data Science Portfolio with GitHub" width="200" /></a> | [Building your Data Science Portfolio with GitHub](https://youtu.be/fCXBaEnPzgo)
+1|<a href="https://youtu.be/oR670Txwh88"><img src="http://img.youtube.com/vi/oR670Txwh88/0.jpg" alt="The Art of Learning Data Science (How to learn data science in 2021)" title="The Art of Learning Data Science (How to learn data science in 2021)" width="200" /></a> | [The Art of Learning Data Science (How to learn data science in 2021)](https://youtu.be/oR670Txwh88)
+2|<a href="https://youtu.be/7XdoaQYwTeA"><img src="http://img.youtube.com/vi/7XdoaQYwTeA/0.jpg" alt="Strategies for Learning Data Science in 2020" title="Strategies for Learning Data Science in 2020" width="200" /></a> | [Strategies for Learning Data Science in 2020](https://youtu.be/7XdoaQYwTeA)
+3|<a href="https://youtu.be/fCXBaEnPzgo"><img src="http://img.youtube.com/vi/fCXBaEnPzgo/0.jpg" alt="Building your Data Science Portfolio with GitHub" title="Building your Data Science Portfolio with GitHub" width="200" /></a> | [Building your Data Science Portfolio with GitHub](https://youtu.be/fCXBaEnPzgo)
 
 
 
